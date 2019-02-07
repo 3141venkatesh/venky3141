@@ -1,0 +1,25 @@
+body{
+	background: aqua;
+}
+#maindiv{
+	background: yellow;
+	display: flex; 
+	justify-content: space-around;
+	margin: 10%;
+	table-layout: 10%
+    border-radius: 5%;
+}
+.subdiv{
+	background: violet;
+	margin: 3%;
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+	width: 25%;
+
+}
+img{
+	margin: 5%;
+    border-radius: 4%;
+    
+}

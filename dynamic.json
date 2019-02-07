@@ -1,0 +1,49 @@
+{
+	"profile":{
+	    "img":"doremon.jpg",
+	    "name":"Rohith kumar",
+	    "roll":"17A31A1251",
+	    "institute":"pragati",
+	    "place":"rajahmundry"
+	},
+	"career":{
+		"info":" to secure a challenging position where i can explore"
+	},
+	"education":[
+	{
+	"sno":"1",
+	"degree":"b.tech",
+	"institute":"pragati",
+	"yop":"2021"
+      },
+      {
+	"sno":"2",
+	"degree":"intermediate",
+	"institute":"pragati",
+	"yop":"2017"
+     },
+     {
+	"sno":"3",
+	"degree":"s.s.c",
+	"institute":"pragati",
+	"yop":"2015"
+     }
+      ],
+	"languages":[
+
+		{
+			"lang":"english"
+		},
+
+		{
+			"lang":"hindi"
+		},
+		{
+			"lang":"telugu"
+		}
+
+
+
+	]
+
+}
